@@ -207,12 +207,19 @@ Si, hay varios modelos que se repiten pero suelen cambiar varias tecnologias com
 | 600–800 € | GeForce RTX 5070 Ti 16GB Reflex 2 RTX AI DLSS4 | PcComponentes | 450,77€ | [Link](https://www.pccomponentes.com/tarjeta-grafica-pny-geforce-rtx-5070-ti-16gb-gddr7-reflex-2-rtx-ai-dlss4?utm_source=790799&utm_medium=afi&utm_campaign=www.youtube.com&sv1=affiliate&sv_campaign_id=790799&awc=20982_1765054924_87a1512864579bde6f83972b2e075244&utm_term=deeplink&utm_content=) | *(insertar abajo)* |
 
 **Modelo A:**
+
 ![gpu_a](../assets/img/30-parte3/gpu_a.png "GPU A")
+
 **Modelo B:**
+
 ![gpu_b](../assets/img/30-parte3/gpu_b.png "GPU B")
+
 **Modelo C:**
+
 ![gpu_c](../assets/img/30-parte3/gpu_c.png "GPU C")
+
 **Modelo D:**
+
 ![gpu_d](../assets/img/30-parte3/gpu_d.png "GPU D")
 
 ## 5) Conclusión (5–8 líneas)
